@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266936963065",
+    "project_id": "findqueuke",
+    "storage_bucket": "findqueuke.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266936963065:android:4bec4dc32d5f1110bab728",
+        "android_client_info": {
+          "package_name": "gzt.manus.findqueuke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266936963065-hru30dr31s4p0paa1v7j0pn8nlk42v3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAfKNb90Ls1p_s20ejIfAiTpjbOCOPQ_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266936963065-hru30dr31s4p0paa1v7j0pn8nlk42v3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

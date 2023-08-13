@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/akaya_telivigala</item>
+        <item>@font/anton</item>
+        <item>@font/arizonia</item>
+        <item>@font/baloo</item>
+        <item>@font/baloo_tammudu</item>
+        <item>@font/carter_one</item>
+        <item>@font/courgette</item>
+        <item>@font/faster_one</item>
+        <item>@font/herr_von_muellerhoff</item>
+        <item>@font/shrikhand</item>
+    </array>
+</resources>

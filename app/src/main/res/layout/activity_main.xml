@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gray"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    >
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+
+    </RelativeLayout>
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="60dp"
+        app:layout_constraintBottom_toTopOf="@+id/buttonregister"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/recog" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="348dp"
+            android:layout_gravity="bottom">
+
+
+            <TextView
+                android:id="@+id/tagLine"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="200dp"
+                android:layout_marginBottom="50dp"
+
+                android:text="Sevdiklerinize ulasın"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                app:fontFamily="cursive" />
+
+            <TextView
+
+                android:id="@+id/tagLine2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="0dp"
+                android:layout_centerHorizontal="true"
+
+                android:layout_marginTop="50dp"
+                android:layout_marginBottom="50dp"
+                android:breakStrategy="high_quality"
+                android:text="      FindQuake"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="@color/black"
+                android:textSize="45sp"
+                app:fontFamily="@font/shrikhand" />
+
+
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>
