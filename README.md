@@ -1,6 +1,6 @@
 # FindQuake:Android App for Finding Missing Individuals After Earthquakes Using Facial Recognition with ML/Deep Learning/Cloud
 # Demo
-If you want to see how the project works, you can watch the [demo video](https://youtu.be/lpYXLx1vRGM).
+If you want to see how the project works, you can watch the [FindQukae Video](https://youtu.be/lpYXLx1vRGM).
 
 ## Introduction
 
