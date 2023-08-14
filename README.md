@@ -137,16 +137,7 @@ SUS was released in 1986 by John Brooke. Many services and products such as webs
 9. I liked the application in general.
 10. I think the application meets its purpose.
 
-In order for the data to be used, each option must be converted from one to five points. Accordingly, Strongly Disagree corresponds to 1 point, Disagree 2 points, Neutral 3 points, Agree 4 points, and Strongly Agree 5 points. Then, five is subtracted from the sum of the questions belonging to the odd number. The sum of the questions with an even number is subtracted from twenty-five. The two values are added up and multiplied by 2.5. Thus, the total score for the questions becomes one hundred. As a result of the calculations, the total score is calculated as 91.2. Comparing the total score with the result adjective rating is Excellent. The grade is A. General score table for the questions are generated in Table 5.3.
-
-| Question | Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree |
-| -------- | ----------------- | -------- | ------- | ----- | -------------- |
-| Q1       | 0                 | 0        | 8       | 0     | 0              |
-| Q2       | 0                 | 0        | 2       | 2     | 0              |
-| Q3       | 8                 | 2        | 0       | 0     | 0              |
-| Q4       | 0                 | 2        | 5       | 0     | 0              |
-| Q5       | 0                 | 2        | 1       | 0     | 4              |
-
+In order for the data to be used, each option must be converted from one to five points. Accordingly, Strongly Disagree corresponds to 1 point, Disagree 2 points, Neutral 3 points, Agree 4 points, and Strongly Agree 5 points. Then, five is subtracted from the sum of the questions belonging to the odd number. The sum of the questions with an even number is subtracted from twenty-five. The two values are added up and multiplied by 2.5. Thus, the total score for the questions becomes one hundred. As a result of the calculations, the total score is calculated as 91.2. Comparing the total score with the result adjective rating is Excellent. The grade is A.
 
 In conclusion, this thesis project presents a solution that utilizes deep learning and cloud systems to address the challenges faced in finding missing individuals following an earthquake. By incorporating face recognition techniques powered by machine learning models, the proposed solution aims to enhance the speed and accuracy of reuniting families. The integration of ML Kit and TensorFlow Lite enables real-time face recognition on Android devices, optimizing performance and ensuring swift results. Additionally, the utilization of cloud systems such as HuaweiCloud Firebase facilitates seamless data storage, synchronization, and sharing, supporting the efficient coordination of efforts during the reunification process.
 
